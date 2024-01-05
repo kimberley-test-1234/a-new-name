@@ -1,0 +1,2 @@
+config:
+  pulumi:template: https://github.com/dschaller/derek-org-test/templates-root/template-b
